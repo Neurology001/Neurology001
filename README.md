@@ -7,7 +7,7 @@
 <br />
 
 <a href="https://github.com/Neurology001?tab=repositories"><img src="https://img.shields.io/badge/View%20projects-111111?style=for-the-badge&labelColor=111111&color=111111" alt="View projects" /></a>
-<a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/Contact-ffffff?style=for-the-badge&labelColor=ffffff&color=ffffff" alt="Contact" /></a>
+<a href="https://github.com/Neurology001"><img src="https://img.shields.io/badge/GitHub%20profile-ffffff?style=for-the-badge&labelColor=ffffff&color=ffffff" alt="GitHub profile" /></a>
 
 <br /><br />
 
